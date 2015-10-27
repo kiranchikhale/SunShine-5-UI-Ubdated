@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\01.Andriod Devlopment\01.SDK_Installation\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\01.AndriodProjects\NanoDegree\GitHub\SunShine-4C-Loader-Completed-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3e9780e03cc43f5a90ace707364739caaac130ac.jar" />
+    </item>
+    <item
+        jar="D:\01.AndriodProjects\NanoDegree\GitHub\SunShine-4C-Loader-Completed-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\01.AndriodProjects\NanoDegree\GitHub\SunShine-4C-Loader-Completed-master\app\build\intermediates\pre-dexed\debug\classes-744cab6d7d591687b00d595b4ba84a822e51f591.jar" />
+    </item>
+    <item
+        jar="D:\01.AndriodProjects\NanoDegree\GitHub\SunShine-4C-Loader-Completed-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\01.AndriodProjects\NanoDegree\GitHub\SunShine-4C-Loader-Completed-master\app\build\intermediates\pre-dexed\debug\classes-f1e28e6a0a6bb5de69a12f8e154f6dc6449f523b.jar" />
+    </item>
+    <item
+        jar="D:\01.AndriodProjects\NanoDegree\GitHub\SunShine-4C-Loader-Completed-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\01.AndriodProjects\NanoDegree\GitHub\SunShine-4C-Loader-Completed-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-08f919c64cb577c6e75b497f6f46fcca1f481bd6.jar" />
+    </item>
+
+</items>
